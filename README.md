@@ -8,9 +8,11 @@ Pour télécharger les mods, merci de vous référer à la partie [# Compte prem
 # Compte Premium
 
 Pour les comptes Premium, il vous suffit tout simplement de télécharger les mods et de mettre votre jeu dans la version de Forge 1.20.1.
+
 **Il ne faut pas que vous mettez les mods à l'intérieur du dossier ***Crack*** dans votre Minecraft.**
 
 # Compte Crack
 
 Pour les comptes crack, il vous suffit tout simplement de télécharger les mods et de mettre votre jeu dans la version de Forge 1.20.1.
+
 **Il faut que vous mettez les mods à l'intérieur du dossier ***Crack*** dans votre Minecraft.**
